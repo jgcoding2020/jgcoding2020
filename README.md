@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jgcoding2020
-- 👀 I’m interested in DBMS, website, software, web, modile phone app development.
-- 🌱 I’m currently learning SASS, XML, AJAX, React, Node.js, and Angular
+- 👀 I’m interested in full stack development.
+- 🌱 I’m currently learning more details revolving around everything I already know.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me jgardn11@yahoo.com
 
