@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jgcoding2020
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning more details revolving around everything I already know.
+- 🌱 I’m currently working on my React JS portfolio.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me jgardn11@yahoo.com
 
