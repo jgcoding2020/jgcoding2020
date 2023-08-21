@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jgcoding2020
-- 👀 My interests are in full stack development.
+- 👋 Hello, I’m @jgcoding2020
+- 👀 Full stack development projects interest me.
 - 🌱 I’m currently working on a React JS RSVP web app with Java, Spring boot, Spring Security, JWT, JPA, Hibernate, and MySQL.
 - 💞️ I am interesting in collaborating on projects.
 - 📫 How to reach me jgardn11@yahoo.com
