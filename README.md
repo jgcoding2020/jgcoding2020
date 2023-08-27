@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @jgcoding2020
 - 👀 Full stack development projects interest me.
-- 🌱 I’m currently independantly working on a useful React JS web app with Java, Spring boot, Spring Security, JWT, JPA, Hibernate, and MySQL.
+- 🌱 I’m currently working on a useful React JS web app with Java, Spring boot, Spring Security, JWT, JPA, Hibernate, and MySQL.
 - 💞️ I am interesting in collaborating on projects.
 - 📫 How to reach me jgardn11@yahoo.com
 
